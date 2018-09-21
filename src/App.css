@@ -1,0 +1,8 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  background: #f0caca;
+}
+
+.btn {
+  border-radius: 0;
+}
